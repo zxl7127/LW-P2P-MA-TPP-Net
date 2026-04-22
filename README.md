@@ -16,8 +16,11 @@ Due to data organization and permission considerations, the uploading process is
 The repository will include:
 
 Dataset-1
+
 Dataset-2
+
 Dataset-3
+
 Annotation files for a subset of images in Dataset-1 (partially annotated data)
 
 ⏳ Status
